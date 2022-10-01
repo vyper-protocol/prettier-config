@@ -5,5 +5,8 @@
   "main": "index.json",
   "repository": "git@github.com:vyper-protocol/prettier-config.git",
   "author": "Vyper Labs <info@vyperprotocol.io>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  }
 }
