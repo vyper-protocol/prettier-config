@@ -3,7 +3,18 @@
   "version": "0.0.1",
   "description": "Vyper Shared Prettier config",
   "main": "index.json",
-  "repository": "git@github.com:vyper-protocol/prettier-config.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vyper-protocol/prettier-config.git"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "files": [
+    "package.json",
+    "index.json"
+  ],
   "author": "Vyper Labs <info@vyperprotocol.io>",
   "license": "MIT",
   "scripts": {
