@@ -1,0 +1,9 @@
+{
+  "name": "@vyper-protocol/prettier-config",
+  "version": "0.0.1",
+  "description": "Vyper Shared Prettier config",
+  "main": "index.json",
+  "repository": "git@github.com:vyper-protocol/prettier-config.git",
+  "author": "Vyper Labs <info@vyperprotocol.io>",
+  "license": "MIT"
+}
