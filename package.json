@@ -1,6 +1,6 @@
 {
   "name": "@vyper-protocol/prettier-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Vyper Shared Prettier config",
   "main": "index.json",
   "repository": {
@@ -8,8 +8,7 @@
     "url": "git+https://github.com/vyper-protocol/prettier-config.git"
   },
   "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://npm.pkg.github.com/"
   },
   "files": [
     "package.json",
